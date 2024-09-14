@@ -1,16 +1,18 @@
-# Fresh project
+# Spirit
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+To start your Phoenix server:
 
-### Usage
+  * Run `mix setup` to install and setup dependencies
+  * Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
+Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Then start the project:
+Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
 
-```
-deno task start
-```
+## Learn more
 
-This will watch the project directory and restart as necessary.
+  * Official website: https://www.phoenixframework.org/
+  * Guides: https://hexdocs.pm/phoenix/overview.html
+  * Docs: https://hexdocs.pm/phoenix
+  * Forum: https://elixirforum.com/c/phoenix-forum
+  * Source: https://github.com/phoenixframework/phoenix
